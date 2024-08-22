@@ -1,1 +1,3 @@
-simply game of guessing random number
+Simple game of guessing random number
+
+
